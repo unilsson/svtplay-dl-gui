@@ -1,0 +1,17 @@
+venv/
+__pycache__/
+.streamlit/
+.DS_Store
+*.log
+
+# Emacs backup- och temporärfiler
+*~
+\#*\#
+.\#*
+
+# Auto-save och sessioner
+/.emacs.desktop
+/.emacs.desktop.lock
+*.elc
+auto-save-list/
+tramp/
